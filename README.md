@@ -29,6 +29,14 @@ Projeto realizado com colaboração, a fim de treinar trabalho em equipe e troca
 
 <table align="center">
     <tr>   
+     <td align="center">
+            <div>
+                <img src="https://avatars.githubusercontent.com/u/110488969?v=4" width="120px;" alt="Foto de Kelvin no GitHub"/><br>
+                <b> Kelvin Charles </b><br>
+                <a href="https://www.linkedin.com/in/kelvin-charles/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"></a>
+                <a href="https://github.com/kelvincharlesdev" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
+            </div>
+        </td>
       <td align="center">
             <div>
                 <img src="https://avatars.githubusercontent.com/u/105132452?v=4" width="120px;" alt="Foto de Jean no GitHub"/><br>
@@ -37,14 +45,7 @@ Projeto realizado com colaboração, a fim de treinar trabalho em equipe e troca
                 <a href="https://github.com/AndersonRodrigs" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
             </div>
         </td>
-        <td align="center">
-            <div>
-                <img src="https://avatars.githubusercontent.com/u/110488969?v=4" width="120px;" alt="Foto de Kelvin no GitHub"/><br>
-                <b> Kelvin Charles </b><br>
-                <a href="https://www.linkedin.com/in/kelvin-charles/" alt="Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20"></a>
-                <a href="https://github.com/kelvincharlesdev" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20"></a>
-            </div>
-        </td>
+       
     </tr>
 </table>
 
