@@ -19,7 +19,7 @@ Projeto realizado com colaboração, a fim de treinar trabalho em equipe e troca
     - Marcação de tarefas concluídas 
     - Exclusão de tarefas 
 
->Acesse a página on-line: <a href="https://to-do-list-8xis4z7xn-andersonrodrigs.vercel.app/?" target=_blank> To Do List </a>
+>Acesse a página on-line: <a href="https://to-do-list-qu2it1iqs-kelvincharlesdev.vercel.app/" target=_blank> To Do List </a>
 
 
 🖱️ A página
