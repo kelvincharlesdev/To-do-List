@@ -68,13 +68,14 @@ let tarefasConcluidas = document.querySelector('.tarefas-concluidas')
 function remover(idTarefa) {
   tarefas.removeChild(idTarefa)
   contador--
-
   numTarefas.innerHTML = contador
 
-  if (contadorConcluidas > 0) {
+  if (idTarefa.classList.contains("tarefa-concluida")){
     contadorConcluidas--
     tarefasConcluidas.innerHTML = contadorConcluidas
-  }
+    return
+  } 
+
 }
 
 function editar(idTarefa) {
